@@ -1,3 +1,5 @@
+Qualquer dúvida/sugestão, por favor, entre em contato através do e-mail <b><a title="jerfweb@gmail.com" href="mailto:jerfweb@gmail.com">jerfweb@gmail.com</a></b>.
+
 # CODE_ADVPL
 [![licence badge]][licence]
 [![stars badge]][stars]
