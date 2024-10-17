@@ -15,3 +15,8 @@
 [issues]:https://github.com/jerfweb/code_advpl/issues
 
 Códigos desenvolvidos na linguagem ADVPL com a finalidade de apoiar e auxiliar outros analistas.
+
+
+####Exemplos
+1. Pontos de Entrada
+   * **MT094CPC.prw**: Ponto de Entrada MT094CPC, para exibir informações de outros campos reais do pedido de compra/autorização de entrega no momento da liberação do documento.
